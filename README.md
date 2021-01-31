@@ -9,4 +9,6 @@ The TOC cell generated will also have hyperlinks, to referenced cells
 
 Example:
 
-`python jupytoc.jupytoc -n ./example.ipynb -o ./example_toc_out.ipynb`
+`git clone https://github.com/bru08/jupytoc.git`
+`cd jupytoc`
+`python jupytoc -n examples/example.ipynb -o examples/out_example_toc.ipynb`
