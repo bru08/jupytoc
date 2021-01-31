@@ -9,17 +9,16 @@ The TOC cell generated will also have hyperlinks, to referenced cells
 
 Example:
 
-`git clone https://github.com/bru08/jupytoc.git`
-`cd jupytoc`
-`python jupytoc -n examples/example.ipynb -o examples/out_example_toc.ipynb`
+`git clone https://github.com/bru08/jupytoc.git`  
+`cd jupytoc`  
+`python jupytoc -n examples/example.ipynb -o examples/out_example_toc.ipynb`  
 
+----  
+Original notebook  
 
-Original notebook
+<img src="./static/original.png" alt="original nb" width="500" height="600">
 
+----  
+After running `jupytoc`    
 
-![original](./static/original.png)
-
-After running `jupytoc`
-
-
-![tocked](./static/tocked.png)
+<img src="./static/tocked.png" alt="tocked nb" width="500" height="600">
