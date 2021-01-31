@@ -12,3 +12,14 @@ Example:
 `git clone https://github.com/bru08/jupytoc.git`
 `cd jupytoc`
 `python jupytoc -n examples/example.ipynb -o examples/out_example_toc.ipynb`
+
+
+Original notebook
+
+
+![original](./static/original.png)
+
+After running `jupytoc`
+
+
+![tocked](./static/tocked.png)
